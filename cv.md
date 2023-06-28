@@ -34,6 +34,6 @@ greet();
 ## Courses: 
 RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 ## Languages:
-English - B1
+English - **B1**
 
 Russian - Native
