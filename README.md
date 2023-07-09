@@ -1,2 +1,2 @@
 # rsschool-cv
-## https://gmarzy.github.io/rsschool-cv/cv
+## https://gmarzy.github.io/rsschool-cv/
